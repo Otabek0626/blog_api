@@ -138,3 +138,5 @@
 
 5. Navigate to http://localhost:8000/api/v1/swagger to see the Swagger UI and interact with the API. 
     `Note`: the Swagger credentials are in `.env` file
+    
+![alt screenshot](https://github.com/Otabek0626/blog_api/blob/main/static/swagger_login.png?raw=true)
